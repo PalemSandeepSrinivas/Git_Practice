@@ -28,4 +28,5 @@ if __name__ == "__main__":
     print("Developer: This message is printed to the console, not the Streamlit app. Check your terminal for this output.")
     print("My name is [Your Name], and I'm practicing Git and Streamlit deployment!")
     print("This is the main branch.")
+    print("Hi Sandeep Srinivas")
     main()
