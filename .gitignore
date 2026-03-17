@@ -4,3 +4,7 @@ interview.py
 practice.ipynb
 some.txt
 surname.txt
+.venv/
+.python-version
+__pycache__/
+pyproject.toml
