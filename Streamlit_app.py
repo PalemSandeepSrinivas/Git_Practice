@@ -26,4 +26,5 @@ def main():
 
 if __name__ == "__main__":
     print("Developer: This message is printed to the console, not the Streamlit app. Check your terminal for this output.")
+    print("This is the main branch.")
     main()
