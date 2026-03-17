@@ -25,4 +25,5 @@ def main():
         st.warning(f"Secret '{SECRET_KEY}' not found. Please add it to Streamlit Cloud 'Secrets' settings.")
 
 if __name__ == "__main__":
+    print("Developer: This message is printed to the console, not the Streamlit app. Check your terminal for this output.")
     main()
