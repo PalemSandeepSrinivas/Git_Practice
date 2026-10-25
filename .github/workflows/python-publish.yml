@@ -72,7 +72,7 @@
 name: Multi-Trigger Demo
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
   schedule:
     - cron: "0 2 * * *"   # Daily at 02:00 UTC
   workflow_dispatch:        # Manual button in UI
